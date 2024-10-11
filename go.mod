@@ -1,4 +1,4 @@
-module github.com/ca0s/pipeline
+module pipeline
 
 go 1.22.3
 
